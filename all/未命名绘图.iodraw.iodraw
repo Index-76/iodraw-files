@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DYJ3hGauSLtAIgNTUmUe-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="120" y="340" width="550" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="DYJ3hGauSLtAIgNTUmUe-7" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="480" height="360" as="geometry">
             <mxRectangle x="170" y="220" width="40" height="50" as="alternateBounds" />
