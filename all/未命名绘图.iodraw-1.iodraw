@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="4FRRaBX4wjC6NTj7oesA-10" value="注册信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4FRRaBX4wjC6NTj7oesA-8">
           <mxGeometry x="0.0314" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4FRRaBX4wjC6NTj7oesA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-1">
@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="4FRRaBX4wjC6NTj7oesA-13" value="登录请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4FRRaBX4wjC6NTj7oesA-11">
           <mxGeometry x="0.056" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
