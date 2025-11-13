@@ -13,6 +13,9 @@
         <mxCell id="4FRRaBX4wjC6NTj7oesA-3" value="作者" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="4FRRaBX4wjC6NTj7oesA-6" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
