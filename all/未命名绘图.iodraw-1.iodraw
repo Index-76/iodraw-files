@@ -16,7 +16,7 @@
         <mxCell id="4FRRaBX4wjC6NTj7oesA-6" value="小说网系统" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="460" y="190" width="270" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="4FRRaBX4wjC6NTj7oesA-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.206;exitDx=0;exitDy=0;entryX=0.058;entryY=0.286;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-1" target="4FRRaBX4wjC6NTj7oesA-6">
+        <mxCell id="4FRRaBX4wjC6NTj7oesA-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.206;exitDx=0;exitDy=0;entryX=0.024;entryY=0.347;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-1" target="4FRRaBX4wjC6NTj7oesA-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="250" as="sourcePoint" />
             <mxPoint x="340" y="200" as="targetPoint" />
@@ -27,10 +27,10 @@
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FRRaBX4wjC6NTj7oesA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.106;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-1" target="4FRRaBX4wjC6NTj7oesA-6">
+        <mxCell id="4FRRaBX4wjC6NTj7oesA-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.994;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-1" target="4FRRaBX4wjC6NTj7oesA-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="310" as="sourcePoint" />
-            <mxPoint x="440" y="310" as="targetPoint" />
+            <mxPoint x="489" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4FRRaBX4wjC6NTj7oesA-13" value="登录请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4FRRaBX4wjC6NTj7oesA-11">
