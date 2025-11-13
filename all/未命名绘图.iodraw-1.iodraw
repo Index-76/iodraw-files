@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="270" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4FRRaBX4wjC6NTj7oesA-2" value="读者" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="180" y="400" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4FRRaBX4wjC6NTj7oesA-3" value="作者" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="660" width="100" height="50" as="geometry" />
@@ -82,7 +82,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FRRaBX4wjC6NTj7oesA-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4FRRaBX4wjC6NTj7oesA-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4FRRaBX4wjC6NTj7oesA-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="410" as="sourcePoint" />
             <mxPoint x="330" y="360" as="targetPoint" />
