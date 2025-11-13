@@ -49,7 +49,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FRRaBX4wjC6NTj7oesA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.026;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-6" target="4FRRaBX4wjC6NTj7oesA-1">
+        <mxCell id="4FRRaBX4wjC6NTj7oesA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.021;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FRRaBX4wjC6NTj7oesA-6" target="4FRRaBX4wjC6NTj7oesA-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="400" as="sourcePoint" />
             <mxPoint x="350" y="350" as="targetPoint" />
@@ -69,6 +69,12 @@
         <mxCell id="4FRRaBX4wjC6NTj7oesA-19" value="注册结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4FRRaBX4wjC6NTj7oesA-18">
           <mxGeometry x="0.1068" y="-2" relative="1" as="geometry">
             <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FRRaBX4wjC6NTj7oesA-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
