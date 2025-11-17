@@ -19,6 +19,9 @@
         <mxCell id="dIujx7cwFg4OTz1-Iwnu-6" value="第三方支付系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dIujx7cwFg4OTz1-Iwnu-7" value="读者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
