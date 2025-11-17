@@ -8,16 +8,16 @@
           <mxGeometry x="510" y="350" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dIujx7cwFg4OTz1-Iwnu-3" value="读者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="250" width="100" height="50" as="geometry" />
+          <mxGeometry x="410" y="250" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIujx7cwFg4OTz1-Iwnu-4" value="作者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIujx7cwFg4OTz1-Iwnu-5" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="100" height="50" as="geometry" />
+          <mxGeometry x="410" y="550" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIujx7cwFg4OTz1-Iwnu-6" value="第三方支付系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="380" width="100" height="50" as="geometry" />
+          <mxGeometry x="660" y="250" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIujx7cwFg4OTz1-Iwnu-7" value="内容审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="450" width="100" height="50" as="geometry" />
