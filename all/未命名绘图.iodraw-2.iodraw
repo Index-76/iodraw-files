@@ -141,9 +141,15 @@
             <mxPoint x="710" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIujx7cwFg4OTz1-Iwnu-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dIujx7cwFg4OTz1-Iwnu-31">
+        <mxCell id="dIujx7cwFg4OTz1-Iwnu-32" value="请求发送邮件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dIujx7cwFg4OTz1-Iwnu-31">
           <mxGeometry x="-0.3455" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIujx7cwFg4OTz1-Iwnu-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="560" as="sourcePoint" />
+            <mxPoint x="630" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
