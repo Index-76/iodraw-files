@@ -119,9 +119,15 @@
             <mxPoint x="790" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIujx7cwFg4OTz1-Iwnu-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dIujx7cwFg4OTz1-Iwnu-27">
+        <mxCell id="dIujx7cwFg4OTz1-Iwnu-28" value="请求审核内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dIujx7cwFg4OTz1-Iwnu-27">
           <mxGeometry x="-0.2065" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIujx7cwFg4OTz1-Iwnu-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="500" as="sourcePoint" />
+            <mxPoint x="750" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
