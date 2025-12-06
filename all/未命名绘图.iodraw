@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2FtWtSZaYmAxc9aD5k2H-18" value="注册/登录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404" y="140" width="66" height="30" as="geometry" />
+          <mxGeometry x="279.5" y="260" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FtWtSZaYmAxc9aD5k2H-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2FtWtSZaYmAxc9aD5k2H-7" target="2FtWtSZaYmAxc9aD5k2H-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,7 +104,7 @@
           <mxGeometry x="180" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FtWtSZaYmAxc9aD5k2H-29" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="272.5" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FtWtSZaYmAxc9aD5k2H-31" value="数据库管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="272.5" y="300" width="80" height="30" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2FtWtSZaYmAxc9aD5k2H-80" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="397" y="190" width="80" height="30" as="geometry" />
+          <mxGeometry x="272.5" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FtWtSZaYmAxc9aD5k2H-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2FtWtSZaYmAxc9aD5k2H-80" target="2FtWtSZaYmAxc9aD5k2H-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
